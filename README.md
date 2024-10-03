@@ -1,2 +1,2 @@
 # musicrepro
-Reprodutor de musica
+Reprodutor de musica feito com HTML, CSS e JavaScript para treino e aprendizado.
